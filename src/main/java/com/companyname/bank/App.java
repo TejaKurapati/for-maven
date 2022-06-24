@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Code has been modified" );
+        System.out.println( "automated build trigger" );
     }
 }
